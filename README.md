@@ -8,4 +8,5 @@ You'll need to compile the script into a binary, and place it in `C:\ProgramData
 
 # Virtual-Key Codes
 To get the Virtual-Key Codes visit the following Microsoft website:
+
 https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
